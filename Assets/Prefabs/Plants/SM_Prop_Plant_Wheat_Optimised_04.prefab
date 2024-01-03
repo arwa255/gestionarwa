@@ -119,3 +119,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cutMesh: {fileID: 4300000, guid: 8f8e285f03acc0f478e4ed0ef553ee6f, type: 3}
+  plantMesh: {fileID: 4300000, guid: 19c34830e190e9043933e9c1fdd0d329, type: 3}
+  stageMeshs:
+  - {fileID: 4300000, guid: f9133f22be096a747abc5be2c28d69a1, type: 3}
+  - {fileID: 4300000, guid: 760348eab80067e489c2c4a69ec4e24d, type: 3}
+  - {fileID: 4300000, guid: 049ea6ee7d872d842b5d9609fa9c5024, type: 3}

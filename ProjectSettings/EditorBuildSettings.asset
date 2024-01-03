@@ -5,10 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/WheatFarm.unity
+    guid: 5d2c856657a6014458fdd6b80488deb7
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4b4ca368944bf464aadc83cbec50ca68,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7d88864e2200d85489986c75a45b9b9f,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 0046de8c37f4a05469bcefd4fdc68184,

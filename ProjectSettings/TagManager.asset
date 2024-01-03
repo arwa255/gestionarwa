@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Wheat
   - DirtPile
+  - Vehicle
+  - CuttedWheat
+  - WheatPoint
+  - PlantWheat
   layers:
   - Default
   - TransparentFX
